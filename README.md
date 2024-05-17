@@ -1,2 +1,3 @@
 # coursera-repo
-For Coursera Git Labs
+changed line 1
+changed line 2
